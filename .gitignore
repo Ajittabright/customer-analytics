@@ -5,7 +5,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 logs/
-models/
+# models/
 data/raw/
 reports/figures/
 .DS_Store
